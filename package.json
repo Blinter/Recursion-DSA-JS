@@ -1,0 +1,23 @@
+{
+  "name": "recursion-dsa-js",
+  "version": "1.0.0",
+  "description": "Recursion JS exercises",
+  "main": "recursion.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Blinter",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blinter/Recursion-DSA-JS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Blinter/Recursion-DSA-JS/issues"
+  },
+  "homepage": "https://github.com/Blinter/Recursion-DSA-JS#readme"
+}
