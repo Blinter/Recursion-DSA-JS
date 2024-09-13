@@ -80,7 +80,7 @@ binarySearch([1,2,3,4],5) // -1
 
 ---
 
-# Other FS
+### Other FS (To Do)
 ---
 ## **Balanced Brackets**
 Re-write the Balanced Brackets challenge from Stacks and Queues to use recursion, rather than a stack.
