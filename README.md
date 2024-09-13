@@ -12,7 +12,7 @@ Given a list of words, return the length of the longest:
 longest(["hello", "hi", "hola"])  // 5
 ```
 ---
-## 3. Every Other Character
+### 3. Every Other Character
 Write a function that returns a string of every other character:
 ```javascript
 everyOther("hello")  // "hlo"
